@@ -24,7 +24,7 @@ const Card = (props) => {
          </div>
            <div className="bottom">
              <div>
-               <h3>{props.pay}</h3>
+               <h3>${props.pay}</h3>
                <p>{props.location}</p>
              </div>
              <button>Apply Now</button>
@@ -32,5 +32,4 @@ const Card = (props) => {
          </div>
   )
 }
-
 export default Card
