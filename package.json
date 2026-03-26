@@ -1,21 +1,5 @@
 {
-  "name": "01-folder",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/uzairmalekji/01-folder.git"
-  },
-  "bugs": {
-    "url": "https://github.com/uzairmalekji/01-folder/issues"
-  },
-  "homepage": "https://github.com/uzairmalekji/01-folder#readme"
+  "dependencies": {
+    "lucide-react": "^1.0.1"
+  }
 }
